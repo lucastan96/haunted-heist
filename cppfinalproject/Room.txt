@@ -1,0 +1,63 @@
+1
+You are outside the house... To your north is the front door, with a mat on the floor.
+2 0 0 0 0 0
+false
+
+false
+red-colored mat,mailbox
+2
+You are in the ground floor main hall... There is a staircase that leads upstairs, a mat on the floor, and a hallway to your east.
+0 1 3 0 7 0
+true
+small key
+false
+battery,yellow-colored mat
+3
+You are in a long corridor... To your south is a door, and the hallway continues on east.
+0 5 4 2 0 0
+false
+
+false
+
+4
+You are at the end of the corridor with nothing but a tree and a door to your south...
+0 6 0 3 0 0
+false
+
+false
+tree
+5
+You are inside a bedroom... There's not much to see here but a bed.
+3 0 0 0 0 0
+false
+
+true
+battery
+6
+You are in the kitchen...
+4 0 0 0 0 0
+false
+
+false
+
+7
+You are in the upstairs hallway... There is a giant door to your east, a ladder that leads upstairs, a tree, and also the staircase to downstairs.
+0 0 8 0 9 2
+false
+
+false
+tree,battery,blue-colored mat
+8
+You are now in the living room... There is a phone, a mat on the floor, and a tree.
+0 0 0 7 0 0
+false
+
+true
+tree,phone,green-colored mat
+9
+You are now in the attic... The treasure chest is on the floor!
+0 0 0 0 0 7
+true
+big key
+true
+chest

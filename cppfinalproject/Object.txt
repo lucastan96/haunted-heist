@@ -1,0 +1,45 @@
+Object
+small key
+You found a key! It opens a door somewhere...
+Object
+big key
+You found a bigger key! It opens a bigger door somewhere...
+Object
+vacuum
+You found a vacuum! Protect yourself with this!!
+Object
+battery
+You found a battery for your vacuum!
+Hidden
+mailbox
+Inside the mailbox is a torchlight!
+false
+torchlight
+Object
+torchlight
+You found a torchlight! You can now view the map by typing "map"...
+Hidden
+tree
+false
+keynameinside
+big key
+Object
+phone
+As you want to pick up the phone the phone rings! You answered the call and a raspy voice said "The order and the floor mats and its numbers are the clue.". The line went dead.
+Hidden
+red-colored mat
+You checked underneath the mat and saw a key lying there. A number "2" is printed on the mat...
+false
+small key
+Object
+yellow-colored mat
+You checked underneath the mat. A number "4" is printed on the mat...
+Object
+blue-colored mat
+You checked underneath the mat. A number "6" is printed on the mat...
+Object
+green-colored mat
+You checked underneath the mat. A number "8" is printed on the mat...
+Object
+chest
+The treasure must be inside the chest!
